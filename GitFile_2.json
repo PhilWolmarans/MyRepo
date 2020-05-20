@@ -1,6 +1,7 @@
-Test this File 2 : 
+Test this File 22 : 
 [
 	{
-		"MyTestJson" : "2ndFile"
+		"MyTestJson" : "2nd File which have been edited"
+		"MyTestJson" : "2nd File which have been edited by adding a new line"
 	}
 }
